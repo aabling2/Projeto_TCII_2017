@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1507579725 source:d:\engenharia elétrica\2017\tc2\project code\opencv_projeto_tcii_v2.0\main.cpp
+	<opencv2/opencv.hpp>
+	<opencv2/core.hpp>
+	<opencv2/highgui.hpp>
+	<opencv2/videoio.hpp>
+	<opencv2/objdetect.hpp>
+	<opencv2/imgproc.hpp>
+	<opencv2/features2d.hpp>
+	<opencv2/calib3d/calib3d.hpp>
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<dirent.h>
+	<sstream>
+	<windows.h>
+
+1507748830 source:d:\engenharia eletrica\2017\tc2\project code\opencv_projeto_tcii_v2.0\main.cpp
+	<opencv2/opencv.hpp>
+	<opencv2/core.hpp>
+	<opencv2/highgui.hpp>
+	<opencv2/videoio.hpp>
+	<opencv2/objdetect.hpp>
+	<opencv2/imgproc.hpp>
+	<opencv2/features2d.hpp>
+	<opencv2/calib3d/calib3d.hpp>
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<dirent.h>
+	<sstream>
+	<windows.h>
+

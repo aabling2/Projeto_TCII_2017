@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\configinputs.o
+./debug\setinput.o
+./debug\configprocess.o
+./debug\addpartdefault.o
+./debug\infoabout.o
+./debug\qrc_resources.o
+./debug\moc_mainwindow.o
+./debug\moc_configinputs.o
+./debug\moc_setinput.o
+./debug\moc_configprocess.o
+./debug\moc_addpartdefault.o
+./debug\moc_infoabout.o
+);

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/Objectif-photo-Logo-1.png</file>
+        <file>images/LOGO - UNISC.png</file>
+    </qresource>
+</RCC>

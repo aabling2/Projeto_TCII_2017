@@ -1,0 +1,7 @@
+size_part = 53;
+mask_angle = 73.50;
+offset_line = 26;
+width_conveyor = 297;
+length_conveyor = 480;
+dist_ref = 420;
+dist_h = 360;

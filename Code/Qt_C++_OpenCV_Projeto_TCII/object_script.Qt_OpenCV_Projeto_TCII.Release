@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\configinputs.o
+./release\setinput.o
+./release\configprocess.o
+./release\addpartdefault.o
+./release\infoabout.o
+./release\qrc_resources.o
+./release\moc_mainwindow.o
+./release\moc_configinputs.o
+./release\moc_setinput.o
+./release\moc_configprocess.o
+./release\moc_addpartdefault.o
+./release\moc_infoabout.o
+);

@@ -1,0 +1,10 @@
+Threshold cam 1 = 27; 
+Threshold cam 2 = 53; 
+Threshold cam 3 = 0; 
+Bmin = 84; 
+Gmin = 0; 
+Rmin = 0; 
+Bmax = 255; 
+Gmax = 46; 
+Rmax = 75; 
+Ratio_part = 30.909201; 
