@@ -6,6 +6,6 @@ A ideia inicial antes de começar a desenvolver o software era contruir um proje
 
 Utilizando a biblioteca OpenCV foi possível processar as imagens obtidas de duas câmeras, uma com função de inspecionar e outra com função de ratrear a peças na sequência. O código foi desenvolvido em C++ sem uso de programação paralela em GPU na época e a interface foi criada com a ferramenta Qt Creator, sem fins comerciais.
 
-Estam disponíveis no repositório os arquivos de apresentação do trabalho, em exemplo de funcionamento em um vídeo, a pasta com o *executável* do software e os códigos desenvolvidos em C/C++ e na plataforma de desenvolvimento Qt Creator.
+Estam disponíveis no repositório os arquivos de apresentação do trabalho, um exemplo de funcionamento em um vídeo, a pasta com o *executável* do software e os códigos desenvolvidos em C/C++ e na plataforma de desenvolvimento Qt Creator.
 
-O executável não está funcionando diretamente apenas com as dlls dispostas, acredito que instalando o Qt Creator funcione ou então necessita alguma configuração no código ou algum detalhe para corrigir isso.
+*O executável não está funcionando diretamente apenas com as dlls dispostas, acredito que instalando o Qt Creator funcione ou então necessita alguma configuração no código ou algum detalhe para corrigir isso.*
